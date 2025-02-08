@@ -6,8 +6,7 @@ Well, NPM stands for Node Package 'manager'. It not just allows you to manager (
 
 # Is there others Package managers ?
 Yes. What are the difference between them ? Which should you use ? 
-Good question my dear friend! Let's talk about <h5 style="color: green">Yarn</h5> and <h5 style="color: green">npm</h5>
-## 
+Good question my dear friend! Let's talk about <h5 style="color: green">Yarn</h5><br><h5 style="color: green">NPM</h5>
 
 
 # Requeriments:
