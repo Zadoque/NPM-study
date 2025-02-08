@@ -13,7 +13,7 @@ Go to Node.js/Download and download it!
 I'll point down here the topics i learned from my course and link a project of a package i'm going to publish in NPM:
 
 <ol>
-    <li> NPM <i>vs</i> YARN <i>vs</i> MNPM</li>
+    <li> NPM <i>vs</i> YARN <i>vs</i> PNPM</li>
     <li>How to install it and first steps</li>
     <li>Using NPM to install, unistall and update packages</li>
     <li>The Dependence tree with `npm list --depth=x`</li>
