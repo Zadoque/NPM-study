@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Zadoque/NPM-study/issues"
   },
-  "homepage": "https://github.com/Zadoque/NPM-study#readme"
+  "homepage": "https://github.com/Zadoque/NPM-study#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
