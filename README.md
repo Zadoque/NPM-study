@@ -21,6 +21,12 @@ I'll point down here the topics i learned from my course and link a project of a
     <li>Creating scripts: TDD (Test-Driven Development), enviroment variables, eslint in all the src, ...</li>
     <li>prod dependences <i>vs</i> dev dependences (--save-dev and --save)</li>
     <li>How to avoid and solve dependences conficts (npm dedupe, npm list) roll back, keep prod clean...</li>
-    <li></li>
-    
+    <li>Some packages along the way, such as: lodash, jest, react, uglyfy-js</li>
+    <li>Alternative packages registes as github, privated ones</li>
+    <li>Tips and best practices</li>
+    <li>How to publish my onw packages</li>
 </ol>
+
+# what now ?
+
+I'll, basicly, do a npm package of my calculator called: "zadoque-eval-math". And use create a npm project with npm init to the project with TDD and some scripts. After that, you're going to the link to this repo below
