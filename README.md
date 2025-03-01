@@ -29,4 +29,7 @@ I'll point down here the topics i learned from my course and link a project of a
 
 # what now ?
 
-I'll, basicly, do a npm package of my calculator called: "zadoque-eval-math". And use create a npm project with npm init to the project with TDD and some scripts. After that, you're going to the link to this repo below
+I'll, basicly, do a npm package of my calculator called: "zadcalc". And use create a npm project with npm init to the project with TDD and some scripts. After that, you're going to see the link below:
+
+# The result:
+[zadcalc](https://github.com/Zadoque/zadcalc)
